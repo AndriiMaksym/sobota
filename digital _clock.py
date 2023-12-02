@@ -37,7 +37,7 @@ if __name__ == "__main__":
     # creating an object of the Tk() class  
     gui_root = Tk()  
     # setting the title of the window  
-    gui_root.title("Digital Clock - JAVATPOINT")  
+    gui_root.title("Digital Clock - Andrii Maksym")  
     # setting the size and position of the window  
     gui_root.geometry("650x250+650+250")  
     # disabling the resizable option for better UI  
